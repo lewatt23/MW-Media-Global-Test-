@@ -2,8 +2,8 @@
 
 A simple web application built with Next.js and Shadcn UI that generates images based on user prompts, allows selection, download, and iterative style-based generation.
 
-Deployed on Vercel: [Link to your Vercel deployment]
-GitHub Repository: [Link to your GitHub repository]
+Deployed on Vercel: https://mwmedia.vercel.app/
+GitHub Repository: https://github.com/lewatt23/MW-Media-Global-Test-
 
 ## Features
 
